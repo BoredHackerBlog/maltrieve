@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: maltrieve
+Version: 0.7
+Summary: A tool to retrieve malware directly from the source for security researchers.
+Home-page: http://maltrieve.org
+Author: Kyle Maxwell
+Author-email: krmaxwell@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,7 @@
+maltrieve.egg-info/PKG-INFO
+maltrieve.egg-info/SOURCES.txt
+maltrieve.egg-info/dependency_links.txt
+maltrieve.egg-info/entry_points.txt
+maltrieve.egg-info/requires.txt
+maltrieve.egg-info/top_level.txt
+src/__init__.py
